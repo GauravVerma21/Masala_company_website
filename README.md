@@ -1,8 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the official website for Masala Company, built with modern web technologies to ensure a fast, responsive, and elegant user experience.
 
-Currently, two official plugins are available:
+Tech Stack :-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js - Component-based UI framework
+
+Tailwind CSS - Utility-first CSS framework for styling
+
+Vite  - Fast development and build tool
+
+React Router  - For navigation and routing
+
+
+Features :-
+ 
+⚡ Fast and optimized performance
+
+📱 Fully responsive design
+
+🎨 Modern UI with Tailwind CSS
+
+🔗 SEO-friendly structure
+
